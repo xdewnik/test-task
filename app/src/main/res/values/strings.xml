@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="privat">Privat</string>
+    <string name="crypto">Crypto</string>
+</resources>
